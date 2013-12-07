@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A3F6CCC2-CE72-409F-97BB-5EC3730832B8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TesseractOCR</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E6B6FAA4-3CE9-4DD7-AB55-C22BB32500D9</key>
+		<string>https://github.com/jpwidmer/TesseractOCR_iOS7-Sample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TesseractOCR.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E6B6FAA4-3CE9-4DD7-AB55-C22BB32500D9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jpwidmer/TesseractOCR_iOS7-Sample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E6B6FAA4-3CE9-4DD7-AB55-C22BB32500D9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E6B6FAA4-3CE9-4DD7-AB55-C22BB32500D9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TesseractOCR_iOS7-Sample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
